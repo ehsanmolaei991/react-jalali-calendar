@@ -1,0 +1,12 @@
+html,
+body {
+  font-family: "Vazirmatn", sans-serif;
+}
+
+button {
+  transition: 0.3s;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
